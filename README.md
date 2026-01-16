@@ -8,6 +8,13 @@
 
 ## 09.01.2025
 
+- [x] Modul 241
+
+Heute habe ich...
+
+## 16.01.2025
+
+- [ ] Bewerben
 - [ ] Modul 241
 
 Heute habe ich...
