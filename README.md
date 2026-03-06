@@ -38,6 +38,23 @@ Heute habe ich im Modul 241 die beiden Aufträge 1708 und 1709 vollständig bear
 
 ## 20.02.2026
 
-- [ ] Modul 223 lernen für am Montag Prüfung
+- [x] Modul 223 lernen für am Montag Prüfung
+
+Heute habe ich für die Prüfung im Modul 223 gelernt. Am Anfang fiel es mir etwas schwer, mich zu konzentrieren, aber nach einer Weile ging es besser. Ich habe versucht, die wichtigsten Themen zu verstehen und nicht nur auswendig zu lernen. Dabei habe ich gemerkt, dass ich manche Sachen noch genauer anschauen muss. Trotzdem habe ich Fortschritte gemacht. Für das nächste Mal möchte ich früher anfangen zu lernen, damit ich weniger Stress habe und die Themen ruhiger durchgehen kann. {79 Wörter}
+
+## 27.02.2026
+
+- [x] M241
+- [x] Auftrag 1710
+- [x] Auftrag 1711
+
+Heute habe ich im Modul 241 an den Aufträgen 1710 und 1711 gearbeitet. Ich habe mich dabei mit der Idee und der Planung einer Lösung beschäftigt. Beim Auftrag 1710 ging es darum, die Idee genauer zu beschreiben und zu überlegen, welchen Nutzen sie hat. Beim Auftrag 1711 habe ich weiter daran gearbeitet und die Lösung genauer ausgearbeitet. So konnte ich besser verstehen, wie man aus einer Idee eine konkrete Lösung entwickelt. Teilweise musste ich länger überlegen, aber am Ende habe ich beide Aufträge fertig gemacht und habe jetzt ein klareres Bild von meinem Projekt. {94 Wörter}
+
+## 06.03.2026
+
+- [ ] CodeHeaven
+- [ ] Arbeiten an local version
+- [ ] Erste Fortschritte in der Web ansicht machen
+- [ ] Testen
 
 Heute habe ich...
