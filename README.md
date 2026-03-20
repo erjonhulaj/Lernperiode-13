@@ -57,7 +57,7 @@ Heute habe ich im Modul 241 an den Aufträgen 1710 und 1711 gearbeitet. Ich habe
 - [x] Erste Fortschritte in der Web ansicht machen
 - [x] Testen
 
-Heute habe ich an meinem Projekt CodeHeaven weitergearbeitet. Ich habe mich vor allem auf die lokale Version konzentriert und versucht, alles wieder zum Laufen zu bringen. Danach habe ich begonnen, erste Fortschritte in der Webansicht zu machen, damit man den Code später im Browser sehen und testen kann. Außerdem habe ich getestet, ob die bisherigen Funktionen korrekt arbeiten. Dabei habe ich besser verstanden, wie die einzelnen Teile meines Programms zusammenhängen und miteinander kommunizieren. 
+Heute habe ich an meinem Projekt CodeHeaven weitergearbeitet. Ich habe mich vor allem auf die lokale Version konzentriert und versucht, alles wieder zum Laufen zu bringen. Danach habe ich begonnen, erste Fortschritte in der Webansicht zu machen, damit man den Code später im Browser sehen und testen kann. Außerdem habe ich getestet, ob die bisherigen Funktionen korrekt arbeiten. Dabei habe ich besser verstanden, wie die einzelnen Teile meines Programms zusammenhängen und miteinander kommunizieren. {73 Wörter}
 
 ## 13.03.2026
 
@@ -68,13 +68,21 @@ Heute habe ich an meinem Projekt CodeHeaven weitergearbeitet. Ich habe mich vor 
 - [x] End-to-End testen
 - [x] Testen
 
-Heute habe ich intensiv an meinem Projekt CodeHeaven gearbeitet und mich auf die Verbindung zwischen Webansicht und Backend konzentriert. Zuerst habe ich den API-Endpunkt überprüft und angepasst, damit er Code und Sprache korrekt verarbeitet. Danach habe ich die HTML-Eingabe fertiggestellt, sodass man Code im Browser eingeben kann. Danach habe ich JavaScript verwendet, um die Verbindung zu FastAPI herzustellen und Daten zu senden und zu empfangen. Am Ende habe ich alles gemeinsam getestet und sichergestellt, dass der gesamte Ablauf funktioniert.
+Heute habe ich intensiv an meinem Projekt CodeHeaven gearbeitet und mich auf die Verbindung zwischen Webansicht und Backend konzentriert. Zuerst habe ich den API-Endpunkt überprüft und angepasst, damit er Code und Sprache korrekt verarbeitet. Danach habe ich die HTML-Eingabe fertiggestellt, sodass man Code im Browser eingeben kann. Danach habe ich JavaScript verwendet, um die Verbindung zu FastAPI herzustellen und Daten zu senden und zu empfangen. Am Ende habe ich alles gemeinsam getestet und sichergestellt, dass der gesamte Ablauf funktioniert. {79 Wörter}
 
-19.03.2026
+## 19.03.2026
 
 - [ ] Modul 245
 - [ ] Auftrag 1702
 - [ ] Auftrag 1703
+
+Heute habe ich an Modul 245 gearbeitet und die Aufträge 1702 und 1703 gemacht. Ich habe Risiken meiner Lösung erkannt, beschrieben und bewertet. Danach habe ich überlegt, wie ich diese Risiken reduzieren kann. Ich habe gelernt, dass es wichtig ist, Risiken früh zu erkennen. Teilweise war es schwierig einzuschätzen, wie gross ein Risiko ist. Insgesamt habe ich gut gearbeitet und das Thema besser verstanden. Ich brauche keine Hilfe. {68 Wörter}
+
+## 27.03.2026
+
+- [ ] CodeHeaven
+- [ ] Website weiterführen
+- [ ] An AI version arbeiten
 
 Heute habe ich...
 
