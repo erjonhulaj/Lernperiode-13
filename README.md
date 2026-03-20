@@ -52,9 +52,29 @@ Heute habe ich im Modul 241 an den Aufträgen 1710 und 1711 gearbeitet. Ich habe
 
 ## 06.03.2026
 
-- [ ] CodeHeaven
-- [ ] Arbeiten an local version
-- [ ] Erste Fortschritte in der Web ansicht machen
-- [ ] Testen
+- [x] CodeHeaven
+- [x] Arbeiten an local version
+- [x] Erste Fortschritte in der Web ansicht machen
+- [x] Testen
+
+Heute habe ich an meinem Projekt CodeHeaven weitergearbeitet. Ich habe mich vor allem auf die lokale Version konzentriert und versucht, alles wieder zum Laufen zu bringen. Danach habe ich begonnen, erste Fortschritte in der Webansicht zu machen, damit man den Code später im Browser sehen und testen kann. Außerdem habe ich getestet, ob die bisherigen Funktionen korrekt arbeiten. Dabei habe ich besser verstanden, wie die einzelnen Teile meines Programms zusammenhängen und miteinander kommunizieren. 
+
+## 13.03.2026
+
+- [x] CodeHeaven
+- [x] API-Endpunkt prüfen oder bauen
+- [x] HTML-Eingabe fertig machen
+- [x] JavaScript mit FastAPI verbinden
+- [x] End-to-End testen
+- [x] Testen
+
+Heute habe ich intensiv an meinem Projekt CodeHeaven gearbeitet und mich auf die Verbindung zwischen Webansicht und Backend konzentriert. Zuerst habe ich den API-Endpunkt überprüft und angepasst, damit er Code und Sprache korrekt verarbeitet. Danach habe ich die HTML-Eingabe fertiggestellt, sodass man Code im Browser eingeben kann. Danach habe ich JavaScript verwendet, um die Verbindung zu FastAPI herzustellen und Daten zu senden und zu empfangen. Am Ende habe ich alles gemeinsam getestet und sichergestellt, dass der gesamte Ablauf funktioniert.
+
+19.03.2026
+
+- [ ] Modul 245
+- [ ] Auftrag 1702
+- [ ] Auftrag 1703
 
 Heute habe ich...
+
