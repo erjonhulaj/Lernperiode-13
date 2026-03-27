@@ -72,9 +72,9 @@ Heute habe ich intensiv an meinem Projekt CodeHeaven gearbeitet und mich auf die
 
 ## 19.03.2026
 
-- [ ] Modul 245
-- [ ] Auftrag 1702
-- [ ] Auftrag 1703
+- [x] Modul 245
+- [x] Auftrag 1702
+- [x] Auftrag 1703
 
 Heute habe ich an Modul 245 gearbeitet und die Aufträge 1702 und 1703 gemacht. Ich habe Risiken meiner Lösung erkannt, beschrieben und bewertet. Danach habe ich überlegt, wie ich diese Risiken reduzieren kann. Ich habe gelernt, dass es wichtig ist, Risiken früh zu erkennen. Teilweise war es schwierig einzuschätzen, wie gross ein Risiko ist. Insgesamt habe ich gut gearbeitet und das Thema besser verstanden. Ich brauche keine Hilfe. {68 Wörter}
 
